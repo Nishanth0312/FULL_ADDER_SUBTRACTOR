@@ -62,7 +62,9 @@ Borrow out = A'Bin + A'B + BBin
 4.Compile, simulate, implement, and program the design similarly to the full adder.
 
 Developed by : NISHANTH R S
+
 Register number : 212224040223
+
 **Program:**
 ```
 ## Full_adder
